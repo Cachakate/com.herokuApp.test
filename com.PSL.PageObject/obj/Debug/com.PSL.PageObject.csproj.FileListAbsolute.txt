@@ -1,0 +1,12 @@
+C:\Users\CCastaAM\Documents\Personal\Test\com.PSL.PageObject\obj\Debug\com.PSL.PageObject.Properties.Resources.resources
+C:\Users\CCastaAM\Documents\Personal\Test\com.PSL.PageObject\obj\Debug\com.PSL.PageObject.csproj.GenerateResource.Cache
+C:\Users\CCastaAM\Documents\Personal\Test\com.PSL.PageObject\bin\Debug\com.PSL.PageObject.dll.config
+C:\Users\CCastaAM\Documents\Personal\Test\com.PSL.PageObject\bin\Debug\com.PSL.PageObject.dll
+C:\Users\CCastaAM\Documents\Personal\Test\com.PSL.PageObject\bin\Debug\com.PSL.PageObject.pdb
+C:\Users\CCastaAM\Documents\Personal\Test\com.PSL.PageObject\bin\Debug\WebDriver.dll
+C:\Users\CCastaAM\Documents\Personal\Test\com.PSL.PageObject\bin\Debug\WebDriver.Support.dll
+C:\Users\CCastaAM\Documents\Personal\Test\com.PSL.PageObject\bin\Debug\WebDriver.xml
+C:\Users\CCastaAM\Documents\Personal\Test\com.PSL.PageObject\bin\Debug\WebDriver.Support.xml
+C:\Users\CCastaAM\Documents\Personal\Test\com.PSL.PageObject\obj\Debug\com.PSL.PageObject.dll
+C:\Users\CCastaAM\Documents\Personal\Test\com.PSL.PageObject\obj\Debug\com.PSL.PageObject.pdb
+C:\Users\CCastaAM\Documents\Personal\Test\com.PSL.PageObject\obj\Debug\com.PSL.PageObject.csprojResolveAssemblyReference.cache

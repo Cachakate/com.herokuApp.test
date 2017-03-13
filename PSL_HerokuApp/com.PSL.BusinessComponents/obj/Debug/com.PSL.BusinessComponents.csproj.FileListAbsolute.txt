@@ -1,0 +1,14 @@
+C:\Users\CCastaAM\Documents\Personal\Test\PSL_HerokuApp\com.PSL.BusinessComponents\obj\Debug\com.PSL.BusinessComponents.Properties.Resources.resources
+C:\Users\CCastaAM\Documents\Personal\Test\PSL_HerokuApp\com.PSL.BusinessComponents\obj\Debug\com.PSL.BusinessComponents.csproj.GenerateResource.Cache
+C:\Users\CCastaAM\Documents\Personal\Test\PSL_HerokuApp\com.PSL.BusinessComponents\bin\Debug\com.PSL.BusinessComponents.dll.config
+C:\Users\CCastaAM\Documents\Personal\Test\PSL_HerokuApp\com.PSL.BusinessComponents\bin\Debug\com.PSL.BusinessComponents.dll
+C:\Users\CCastaAM\Documents\Personal\Test\PSL_HerokuApp\com.PSL.BusinessComponents\bin\Debug\com.PSL.BusinessComponents.pdb
+C:\Users\CCastaAM\Documents\Personal\Test\PSL_HerokuApp\com.PSL.BusinessComponents\bin\Debug\com.PSL.PageObject.dll
+C:\Users\CCastaAM\Documents\Personal\Test\PSL_HerokuApp\com.PSL.BusinessComponents\bin\Debug\WebDriver.dll
+C:\Users\CCastaAM\Documents\Personal\Test\PSL_HerokuApp\com.PSL.BusinessComponents\bin\Debug\WebDriver.Support.dll
+C:\Users\CCastaAM\Documents\Personal\Test\PSL_HerokuApp\com.PSL.BusinessComponents\bin\Debug\com.PSL.PageObject.pdb
+C:\Users\CCastaAM\Documents\Personal\Test\PSL_HerokuApp\com.PSL.BusinessComponents\bin\Debug\WebDriver.xml
+C:\Users\CCastaAM\Documents\Personal\Test\PSL_HerokuApp\com.PSL.BusinessComponents\bin\Debug\WebDriver.Support.xml
+C:\Users\CCastaAM\Documents\Personal\Test\PSL_HerokuApp\com.PSL.BusinessComponents\obj\Debug\com.PSL.BusinessComponents.csprojResolveAssemblyReference.cache
+C:\Users\CCastaAM\Documents\Personal\Test\PSL_HerokuApp\com.PSL.BusinessComponents\obj\Debug\com.PSL.BusinessComponents.dll
+C:\Users\CCastaAM\Documents\Personal\Test\PSL_HerokuApp\com.PSL.BusinessComponents\obj\Debug\com.PSL.BusinessComponents.pdb
