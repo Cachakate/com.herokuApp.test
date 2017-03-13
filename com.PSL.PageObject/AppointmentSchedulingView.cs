@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Runtime.InteropServices;
+using System.Threading;
 
 //Added selenium libs
 using OpenQA.Selenium;
@@ -15,6 +17,7 @@ namespace com.PSL.PageObject
         //constructor
         public AppointmentSchedulingView(IWebDriver driver)
         {
+            this.webDriver = driver;
             PageFactory.InitElements(driver, this);
         }
 

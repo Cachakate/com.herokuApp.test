@@ -24,10 +24,19 @@ namespace com.PSL.BusinessComponents
 
             homeView.AccesToAppointmentSchedule();
             appointmentSchedulingView.FillformDate(sDate, patientID, doctorID, observations);
+            return true;
+         }
 
-        return true;
-    }
+        public static string AppointmentScheduleError()
+        {
+            AppointmentErrorView appointmentErrorView = new AppointmentErrorView(driver);
+            return appointmentErrorView.errorCatcher();
+        }
 
-
+        public static string AppointmentScheduleSucess()
+        {
+            AppointmentErrorView appointmentErrorView = new AppointmentErrorView(driver);
+            return appointmentErrorView.successCatcher();
+        }
     }
 }

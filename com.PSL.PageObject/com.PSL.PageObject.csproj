@@ -59,7 +59,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AppointmentErrorView.cs" />
     <Compile Include="AppointmentSchedulingView.cs" />
+    <Compile Include="AppointmentSuccess.cs" />
     <Compile Include="HomeView.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
