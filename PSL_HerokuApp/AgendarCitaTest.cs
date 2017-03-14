@@ -22,7 +22,7 @@ namespace PSL_HerokuApp
             makeAppointment = AppointmentScheduleBC.AppointmentScheduleProcess("03/12/2017", "654321", "1", "Fake appointment");
             Assert.IsTrue(makeAppointment,"When trying to make an appointment when the doctor does not exist the application, " +
                                           "is no presenting a message indicating that.");
-            Assert.AreEqual("*El campo 'Documento de identidad' no se encuentra entre nuestros doctores.",
+            StringAssert.Contains("*El campo 'Documento de identidad' no se encuentra entre nuestros doctores.",
                 AppointmentScheduleBC.AppointmentScheduleError(), "The Application is not presenting the error expected when the doctor does not exist.");
         }
 
@@ -36,7 +36,7 @@ namespace PSL_HerokuApp
             makeAppointment = AppointmentScheduleBC.AppointmentScheduleProcess("03/12/2017", "1", "123456", "Fake appointment");
             Assert.IsTrue(makeAppointment, "When trying to make an appointment when the patient does not exist the application, " +
                              "is no presenting a message indicating that.");
-            Assert.AreEqual("*El campo 'Documento de identidad' no se encuentra entre nuestros pacientes registrados.",
+            StringAssert.Contains("*El campo 'Documento de identidad' no se encuentra entre nuestros pacientes registrados.",
                AppointmentScheduleBC.AppointmentScheduleError(), "The Application is not presenting the error expected when the patient does not exist");
         }
 
@@ -50,7 +50,7 @@ namespace PSL_HerokuApp
             makeAppointment = AppointmentScheduleBC.AppointmentScheduleProcess("03/12/2016", "654321", "123456", "Fake appointment");
             Assert.IsTrue(makeAppointment, "When trying to make an appointment when the date is before actual the application, " +
                                            "is no presenting a message indicating that.");
-            Assert.AreEqual("*El campo 'Fecha' se encuentra fuera del rango permitido.",
+            StringAssert.Contains("*El campo 'Fecha' se encuentra fuera del rango permitido.",
                AppointmentScheduleBC.AppointmentScheduleError(), "The Application is not presenting the error expected when the date is before than the actual.");
         }
 
